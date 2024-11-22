@@ -1,0 +1,6 @@
+# src/main/resources/plugin.yml
+name: AK47Plugin
+version: 1.0
+main: com.yourplugin.AK47Plugin
+api-version: 1.16
+description: A simple AK-47 plugin for Minecraft
